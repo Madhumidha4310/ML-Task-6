@@ -1,7 +1,5 @@
 # 🚗 Electric Vehicle Price Prediction Using Ridge Regression
 
-**Author:** Madhumidha
-
 ## 📌 Project Overview
 
 This project focuses on **predicting the price of electric vehicles (EVs) in India using Machine Learning**.
